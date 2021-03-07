@@ -28,9 +28,9 @@
   
 ## 🏆&nbsp;My Stats
 <p>
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nikhraj&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nikhraj&theme=radical&layout=compact" />
+<a href="https://github.com/nikhraj">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nikhraj&show_icons=true&theme=algolia" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nikhraj&theme=algolia&layout=compact" />
 </a>
 </p>
 
