@@ -30,7 +30,7 @@
   ![Visual Studio Code](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 
-## My Stats
+## 🏆&nbsp;My Stats
 <p>
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nikhraj&show_icons=true&theme=radical" />
@@ -44,7 +44,7 @@
 <p align="center">
 <a href="https://nikhilrajput.me"><img src="https://img.shields.io/badge/-nikhilrajput.me-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/rajput1nikhil/"><img src="https://img.shields.io/badge/-Nikhil-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:nikhil2018.rajput@gamil.com"><img src="https://img.shields.io/badge/-Nikhil-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:nikhil2018.rajput@gamil.com"><img src="https://img.shields.io/badge/-Mail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 
 
