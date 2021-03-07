@@ -1,6 +1,6 @@
 ## Hi there [![eyes-1.gif](https://s4.gifyu.com/images/eyes-1.gif)](https://gifyu.com/image/ZOeV) I'm Nikhil.
 
-### [![penguin.gif](https://s4.gifyu.com/images/penguin.gif)](https://gifyu.com/image/Zy2O) &nbsp;About Me 
+### [![penguin.gif](https://s4.gifyu.com/images/penguin.gif)](https://gifyu.com/image/Zy2O) About Me 
 
 - 🔥&nbsp;I'm a passionate self-taught Competitive Programmer and a Web Developer from India. 
 - 🎯&nbsp;My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. 
@@ -8,7 +8,7 @@
 - 🎓&nbsp;CSE Student at Nirma University.
 
 
-### [![rocket.gif](https://s4.gifyu.com/images/rocket.gif)](https://gifyu.com/image/ZySM) &nbsp;Tech Stack
+### [![rocket.gif](https://s4.gifyu.com/images/rocket.gif)](https://gifyu.com/image/ZySM) Tech Stack
 
 🌐 &nbsp;
   ![Cpp](https://img.shields.io/badge/-C++-333333.svg?style=flat&logo=c%2B%2B&logoColor=yellow)
@@ -33,13 +33,13 @@
 ## 🏆&nbsp;My Stats
 <p>
 <a href="https://github.com/AVS1508">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=nikhraj&show_icons=true&theme=radical" />
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nikhraj&theme=radical&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nikhraj&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nikhraj&theme=radical&layout=compact" />
 </a>
 </p>
 
 
-## [![handshake.gif](https://s4.gifyu.com/images/handshake.gif)](https://gifyu.com/image/Zy2f) &nbsp;Connect with Me
+## [![handshake.gif](https://s4.gifyu.com/images/handshake.gif)](https://gifyu.com/image/Zy2f) Connect with Me
 
 <p align="center">
 <a href="https://nikhilrajput.me"><img src="https://img.shields.io/badge/-nikhilrajput.me-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
