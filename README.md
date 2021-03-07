@@ -27,7 +27,7 @@
 - ![Visual Studio Code](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   
 ## 🏆&nbsp;My Stats
-<p>
+<p align="center">
 <a href="https://github.com/nikhraj">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nikhraj&show_icons=true&theme=algolia" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nikhraj&theme=algolia&layout=compact" />
