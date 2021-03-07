@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Nikhil.
+## Hi there [![eyesa89f84f502d783dc.gif](https://s4.gifyu.com/images/eyesa89f84f502d783dc.gif)](https://gifyu.com/image/ZOen) I'm Nikhil.
 
 ### 💻 &nbsp;About Me 
 
