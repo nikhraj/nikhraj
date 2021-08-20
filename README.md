@@ -2,7 +2,7 @@
 
 ### [![penguin.gif](https://s4.gifyu.com/images/penguin.gif)](https://gifyu.com/image/Zy2O) About Me 
 
-- 🔥&nbsp;I'm a passionate self-taught Competitive Programmer and a Web Developer from India. 
+- 🔥&nbsp;I'm a self-taught Competitive Programmer and a Web Developer. 
 - 🎯&nbsp;My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. 
 - 😉&nbsp;I take great care in the experience, architecture, and code quality of the things I build.
 - 🎓&nbsp;CSE Student at Nirma University.
